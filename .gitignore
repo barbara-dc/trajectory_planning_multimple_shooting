@@ -1,0 +1,15 @@
+dynamics.m
+dFds.m
+dFdu.m
+r.m
+s.m
+dsds.m
+dsdu.m
+nablar.m
+*.asv
+drds.m
+drdu.m
+h.m
+nablah.m
+*.eps
+*.mat
