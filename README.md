@@ -1,1 +1,1 @@
-# trajectory_planning_multimple_shooting
+# trajectory_planning_multiple_shooting
